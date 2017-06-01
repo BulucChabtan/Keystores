@@ -1,5 +1,5 @@
 #! /bin/bash
-# Author: Jesus Alatorre S
+# Author: BulucChabtan
 # License: GPLv3
 # Summary:  This script execute a dictionary attack against the typical java ".keystore" files
 #           Just provide the path to the keystore and the dictionary and will try to unlock
